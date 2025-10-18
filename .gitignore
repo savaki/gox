@@ -1,0 +1,8 @@
+# ignore intellij
+.idea
+*.iml
+*.iws
+*.ips
+
+# ignore generated
+coverage.*
